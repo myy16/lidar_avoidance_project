@@ -1,0 +1,2 @@
+echo "numpy" >> requirements.txt
+echo "scipy" >> requirements.txt
